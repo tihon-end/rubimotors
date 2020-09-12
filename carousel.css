@@ -105,6 +105,13 @@ body {
 	.collapse.navbar-collapse {
 		margin-left: 0px;
 	}
+	.ferr{
+		margin-left: 30px;
+		display: none;
+	}
+	.ferr1{
+		display: none;
+	}
 }
 .logo {
 	height: 50px;
@@ -160,7 +167,7 @@ a.as {
 
 .navbar-brand {
 	font-size: 30px;
-	margin-left: 30px;
+	margin-left: 20px;
 }
 
 .collapse {
@@ -170,7 +177,25 @@ a.as {
 .rolo {
 	width: 30px;
 	height: 30px;
-	margin-right: -28px;
+	margin-right: -20px;
 	margin-left: -15px;
 	margin-bottom: 15px;
+}
+.guhhi{
+	font-size: 100px;
+}
+.guhhi1{
+	font-size: 50px;
+}
+.ferr{
+	margin-right: 35px;
+	margin-top: 10px;
+	color: white;
+	font-size: 15px;
+}
+.ferr1{
+	margin-right: 20px;
+	margin-top: 13px;
+	color: white;
+	font-size: 15px;
 }
